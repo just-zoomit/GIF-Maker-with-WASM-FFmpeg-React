@@ -1,3 +1,6 @@
+# GIF Maker with WASM (FFmpeg) & React
+Convert a video file to an animated GIF with Web Assembly. 
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
@@ -23,3 +26,31 @@ Your app is ready to be deployed!
 
 Launches the application test runner.
 Run with the `--watch` flag (`npm test -- --watch`) to run in interactive watch mode.
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+    npx create-snowpack-app gifmakr --template @snowpack/app-template-react
+
+    npm install @ffmpeg/ffmpeg @ffmpeg/core
+  ```
+
+### Installation
+
+
+1. 
+2.
+3. 
+ 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
